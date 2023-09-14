@@ -2,7 +2,7 @@
   "languageCode": "hu",
   "languageName": "Hungarian",
   "langageNameShort": "HUN",
-  "dateLocale": "enUS",  ?__
+  "dateLocale": "enUS", 
   "or": "vagy",
   "to": "címre",
   "at": "címen",
@@ -112,7 +112,6 @@
   "update": "Frissítés",
   "verifying": "Verifikálás",
   "scheduled": "Tervezett",
-
   "today": "Ma",
   "daysAgo": "korábban",
   "uptime": "üzemidő",
